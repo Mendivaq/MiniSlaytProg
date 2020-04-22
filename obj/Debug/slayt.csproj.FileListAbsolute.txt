@@ -1,0 +1,9 @@
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Slaytislemi\bin\Debug\yilanoyunu.exe.config
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Slaytislemi\bin\Debug\yilanoyunu.exe
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Slaytislemi\bin\Debug\yilanoyunu.pdb
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Slaytislemi\obj\Debug\slayt.csprojAssemblyReference.cache
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Slaytislemi\obj\Debug\yilanoyunu.Form1.resources
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Slaytislemi\obj\Debug\yilanoyunu.Properties.Resources.resources
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Slaytislemi\obj\Debug\slayt.csproj.GenerateResource.cache
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Slaytislemi\obj\Debug\yilanoyunu.exe
+C:\Users\ekkoe\OneDrive\Masaüstü\Projelerim\Slaytislemi\obj\Debug\yilanoyunu.pdb
